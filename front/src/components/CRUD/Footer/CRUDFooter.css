@@ -1,0 +1,31 @@
+.crud__footer {
+  margin: 30px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 3;
+}
+
+.form__input {
+}
+
+.form__input {
+  width: 400px;
+  height: 140px;
+  position: relative;
+}
+
+.footer__update-btn {
+  width: 40px;
+  position: absolute;
+  border: 2px solid #000;
+  border-radius: 50%;
+  right: 10px;
+  bottom: 26%;
+  cursor: pointer;
+}
+
+.send__img {
+  width: 30px;
+  margin: 5px 0 0 4px;
+}

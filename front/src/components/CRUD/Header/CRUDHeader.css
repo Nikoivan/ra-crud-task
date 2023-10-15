@@ -1,0 +1,22 @@
+.crud__header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.header__title {
+  font-size: 50px;
+}
+
+.header__update-btn {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.update__img {
+  margin-top: 5px;
+  width: 30px;
+}
